@@ -1,4 +1,5 @@
-[General]
+#!name=Profile Module
+#!desc=General Settings Enhanced[General]
 # > 增强版 Wi-Fi 助理
 wifi-assist = true
 # > Internet 测试 URL
