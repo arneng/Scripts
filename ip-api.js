@@ -14,7 +14,7 @@ $httpClient.get(url, function(error, response, data){
 const params = getParams($argument);
   body = {
     title: "节点信息",
-    content: `IP：${query}\nISP：${isp}\nASN：${as}\nCountry/Zone：${emoji}${country}\nCity：${city}\nTimeZone：${timezone}\nLatitude：${lon},${lat}\nCurrency：${currency}`,
+    content: `IP：${query}\nISP：${isp}\nASN：${as}\n国家/地区：${emoji}${country}\n城市：${city}\n时区：${timezone}\n经纬度：${lon},${lat}\n货币：${currency}`,
         icon: params.icon,
         "icon-color": params.color
   }
