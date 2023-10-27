@@ -1,6 +1,6 @@
 #!name = IP信息
 #!desc = IP信息面板
-#!url= https://raw.githubusercontent.com/Yu9191/Script/main/yyzs.sgmodule
+#!url= https://raw.githubusercontent.com/arneng/Scripts/main/IP信息.sgmodule
 [Panel]
 IP信息=script-name=IP信息
 [Script]
