@@ -1,7 +1,7 @@
-#!name = IP信息
-#!desc = IP信息面板
+#!name = 流媒体检测
+#!desc = 流媒体检测面板
 #!url= https://raw.githubusercontent.com/arneng/Scripts/main/media.sgmodule
 [Panel]
-IP信息=script-name=IP信息
+流媒体检测 = script-name=流媒体检测
 [Script]
-IP信息=type=generic,script-path=https://raw.githubusercontent.com/arneng/Scripts/main/ip-api.js,argument=icon=mappin.and.ellipse&color=#76448A
+流媒体检测= type=generic, script-path=https://raw.githubusercontent.com/arneng/Scripts/main/stream.js
